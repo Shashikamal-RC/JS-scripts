@@ -1,0 +1,18 @@
+JavaScript:-
+    A client-side language. But it is?
+
+Java v/s JavaScript:-
+    car v/s carpet :):):):)
+
+what is ES6/ES7 ?
+    ECMAScript = European Computer Manufacturers Association JavaScript
+
+    1995 - Creation - Netscape
+    1997 - ES1
+    2009-10 - ES5 => MAP, ForEAch
+    2015 - ES6
+    2017 - ES7 
+
+    Extentioans : Bable
+
+    You need NodeJS to run your JS Code
